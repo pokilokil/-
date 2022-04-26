@@ -1,0 +1,15 @@
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\Черновик\Черновик\bin\Debug\net6.0\Черновик.exe
+C:\Users\OMEN\source\repos\Черновик\Черновик\bin\Debug\net6.0\Черновик.deps.json
+C:\Users\OMEN\source\repos\Черновик\Черновик\bin\Debug\net6.0\Черновик.runtimeconfig.json
+C:\Users\OMEN\source\repos\Черновик\Черновик\bin\Debug\net6.0\Черновик.dll
+C:\Users\OMEN\source\repos\Черновик\Черновик\bin\Debug\net6.0\Черновик.pdb
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.dll
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\refint\Черновик.dll
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.pdb
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\Черновик.genruntimeconfig.cache
+C:\Users\OMEN\source\repos\Черновик\Черновик\obj\Debug\net6.0\ref\Черновик.dll
